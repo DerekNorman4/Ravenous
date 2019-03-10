@@ -2,6 +2,7 @@
   "name": "revenous",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://dereknorman4.github.io/Ravenous/",
   "dependencies": {
     "@babel/helper-replace-supers": "^7.3.4",
     "balanced-match": "^1.0.0",
